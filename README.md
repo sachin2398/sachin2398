@@ -43,7 +43,7 @@ Here are some ideas to get you started:
 
 <h4 align="center"><img src="https://media.giphy.com/media/W5eoZHPpUx9sapR0eu/giphy.gif" width="30px" alt="Git"/>&nbsp;Visitor's count :eyes:</h4>
 
-<p align="center"><img src="https://profile-counter.glitch.me/{Sajid788}/count.svg" alt="sachin2398" :: Visitor's Count" /></p>
+<p align="center"><img src="https://profile-counter.glitch.me/{sachin2398}/count.svg" alt="sachin2398" :: Visitor's Count" /></p>
 
 <img src="https://media.giphy.com/media/iY8CRBdQXODJSCERIr/giphy.gif" width="30px">&nbsp;
 <img src='https://raw.githubusercontent.com/ShahriarShafin/ShahriarShafin/main/Assets/handshake.gif' width="70px">
