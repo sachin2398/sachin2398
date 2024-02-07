@@ -29,13 +29,18 @@ Here are some ideas to get you started:
 <img src="https://media.giphy.com/media/iY8CRBdQXODJSCERIr/giphy.gif" width="30px">&nbsp; 
 
  ## 👨‍💻ABOUT ME:
-- 🧠 Callme: ***He/His*** or ***TeamWorker*** 😊 <br>
-- 🤔 I use daily ```.js```,``` .css```, ```.html```
-- 🛠  I’m currently learning about **Deep Learning!😅**
-- 🌱 I’m looking to collaborate on: **Contribute more to Open Source projects.**
-- ⚡ I’m looking for help with anything **I am currently learning! 😅**.
-- 💬 Ask me about anything, I am happy to help, **only if the ball is in my court!😉**<br>
-- ✍️ Fun fact : *I Always try to learn something new and then sleep till it store in the brain* 😎<br>
+
+👋 Hello World! I'm Sachin Kumar Singh, a passionate MERN Developer with a knack for crafting seamless web experiences. 🚀
+
+👨‍💻 As a Full Stack Web Developer, I honed my skills through a rigorous Full Stack Web Development Course at Masai, diving deep into the intricacies of the MERN Stack. From React and Redux for dynamic front-end experiences to Node.js, Express, and MongoDB for robust back-end solutions – my tech toolkit is equipped to tackle diverse challenges.
+
+🛠️ My arsenal includes React, Redux, JAVA, Node, Express, Mongoose, MongoDB, HTML, CSS, JavaScript, and Git. I thrive on creating efficient, elegant code and have a solid foundation in Data Structures and Algorithms, having conquered 650+ DSA problems.
+
+🌐 I'm not just a coder; I'm a problem solver. Whether it's architecting the front-end or optimizing the back-end, I'm dedicated to building innovative solutions that stand the test of time.
+
+💡 Innovation excites me, and I love collaborating with teams to turn ideas into reality through technology. Let's connect and explore the limitless possibilities of the digital realm. Together, we can shape the future, one line of code at a time. 🌟
+
+📫 Reach out, and let's embark on this coding journey together!<br>
 
  <img src="https://media.giphy.com/media/gH3LO09IOiZIqePwv9/giphy.gif" width="50" /> <b><i align="center">Thought : "Life is full of choices…choose wisely!”</i></b> <img src="https://media.giphy.com/media/qjqUcgIyRjsl2/giphy.gif" width="50" />
 
